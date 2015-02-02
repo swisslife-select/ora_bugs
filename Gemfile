@@ -11,7 +11,6 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'activerecord-oracle_enhanced-adapter'
 gem 'ruby-oci8'
-gem 'ruby-plsql'
 
 group :development, :test do
   gem 'byebug'
